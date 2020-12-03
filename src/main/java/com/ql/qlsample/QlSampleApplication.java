@@ -1,8 +1,10 @@
 package com.ql.qlsample;
 
+//import com.ql.qlredis.autoconfigure.annotations.EnableQlRedis;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//@EnableQlRedis
 @SpringBootApplication
 public class QlSampleApplication {
 
